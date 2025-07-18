@@ -1,4 +1,4 @@
-I'm currently trying to develop a chatbot with who you can chat every day, whenever you want,
-I just started programation so I'm still currently learning.
+I'm currently trying to develop a chatbot you can chat with, wherever you want and whenever,
+I would like in the future to create one that could be directly put on the phone as an app.
 
 Any critics or comments are welcomed.
